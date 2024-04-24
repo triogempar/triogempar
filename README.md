@@ -1,6 +1,6 @@
 <h3 align="center">Just someone who likes to learn about new things.</h3>
 
-- 📫 How to reach me : **trio@nusantaracode.org**
+- 📫 How to reach me : **#**
 - ⚡ Fun fact : **I can hack my own facebook account**
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triogempar&label=Profile%20views&color=0e75b6&style=flat" alt="triogempar" /> </p>
